@@ -15,7 +15,7 @@
 
 | 저장소 · Repository | 내용 · Contents |
 |---|---|
-| [**difluid-ble-guide**](https://github.com/difluid-korea/difluid-ble-guide) | DiFluid R2 Extract·Microbalance·Microbalance Ti 를 블루투스(BLE)로 붙이는 개발자 가이드. 실제 기기로 확인한 프로토콜, R2 원시 캡처, Python 예제 · BLE integration guide for the R2 Extract, Microbalance and Microbalance Ti — protocol verified on real devices, raw R2 captures, Python examples ([한국어](https://github.com/difluid-korea/difluid-ble-guide#readme) · [English](https://github.com/difluid-korea/difluid-ble-guide/blob/main/README.en.md)) |
+| [**difluid-ble-guide**](https://github.com/difluid-korea/difluid-ble-guide) | DiFluid R2 Extract·Microbalance·Microbalance Ti·Omix Plus 를 블루투스(BLE)로 붙이는 개발자 가이드. 실제 기기로 확인한 프로토콜, 원시 캡처, Python 예제 · BLE integration guide for the R2 Extract, Microbalance, Microbalance Ti and Omix Plus — protocol verified on real devices, raw captures, Python examples ([한국어](https://github.com/difluid-korea/difluid-ble-guide#readme) · [English](https://github.com/difluid-korea/difluid-ble-guide/blob/main/README.en.md)) |
 
 ### 피드백 · Feedback
 
