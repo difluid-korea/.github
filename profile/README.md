@@ -1,8 +1,8 @@
-<p align="center"><img src="banner.svg" alt="DiFluid Korea — DiFluid 한국 공식 대리점" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="DiFluid Korea — 비다스테크 · DiFluid 한국 공식 수입사" width="100%"></p>
 
 <p align="center">
-  <b>DiFluid 한국 공식 대리점</b> 비다스테크의 개발자 공간입니다.<br>
-  The developer space of <b>Vidastech</b>, the official DiFluid distributor in Korea.
+  <b>DiFluid 한국 공식 수입사</b>이자 <b>DiFluid Korea 공식 운영사</b>인 비다스테크의 개발자 공간입니다.<br>
+  The developer space of <b>Vidastech</b>, the official DiFluid importer for Korea and official operator of DiFluid Korea.
 </p>
 
 <p align="center">

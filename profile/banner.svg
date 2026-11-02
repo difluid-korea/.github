@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" role="img" aria-labelledby="t d">
   <title id="t">DiFluid Korea</title>
-  <desc id="d">The official DiFluid distributor in Korea</desc>
+  <desc id="d">Operated by Vidastech, the official DiFluid importer for Korea</desc>
   <defs>
     <radialGradient id="glow" cx="0.85" cy="0" r="0.75">
       <stop offset="0" stop-color="#4FBBAB" stop-opacity="0.35"/>
@@ -21,5 +21,5 @@
   <path d="M1060 84c20 24 34 42 34 61a34 34 0 0 1-68 0c0-19 14-37 34-61z" fill="url(#drop)"/>
   <text x="80" y="132" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">DiFluid</text>
   <text x="362" y="132" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#4FBBAB" letter-spacing="7">KOREA</text>
-  <text x="80" y="190" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" fill="#C4CBCC">The official DiFluid distributor in Korea · Developers</text>
+  <text x="80" y="190" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" fill="#C4CBCC">Vidastech · Official DiFluid importer · Developers</text>
 </svg>
